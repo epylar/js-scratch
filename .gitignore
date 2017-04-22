@@ -4,3 +4,4 @@ node_modules/
 * text=lf
 /coverage/
 /lib/
+/dist/
